@@ -2,7 +2,7 @@
 ---
 As f/e developers we often have to name different components and blocks in an agnostic and descriptive manner. Naming things can be really, really hard. This is a small list I put together.
 
-If you are following a block, element, modifier pattern in your CSS, these could be used to help the _element_ portion of that sequence.
+If you are following a block, element, modifier pattern in your CSS, these could be used to help the _block_ portion of that sequence.
 
 
 ### Individual Blocks
